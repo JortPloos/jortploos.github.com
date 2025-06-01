@@ -1,0 +1,17 @@
+:root, [data-bs-theme=light] {
+  --bs-body-color: #000000;
+  --bs-body-color-rgb: 0,0,0;
+  --bs-secondary-color: #000000;
+  --bs-secondary-color-rgb: 0,0,0;
+  --bs-tertiary-color: #000000;
+  --bs-tertiary-color-rgb: 0,0,0;
+  --bs-body-bg: #ffffff;
+  --bs-body-bg-rgb: 255,255,255;
+  --bs-secondary-bg: #ffffff;
+  --bs-secondary-bg-rgb: 255,255,255;
+  --bs-tertiary-bg: #ffffff;
+  --bs-tertiary-bg-rgb: 255,255,255;
+  --bs-body-font-family: Poppins, sans-serif;
+  --bs-body-line-height: 1;
+}
+
